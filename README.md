@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RithikaC
+- 👀 I’m interested in neuroscience, and front end web development along with UX/UI design
+- 🌱 I’m currently a sophomore in Biotechnology
+- 📫 Feel free to reach out me on linkedin.com/in/rithika-chunduri
